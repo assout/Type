@@ -1,0 +1,2 @@
+# Type
+typing game
